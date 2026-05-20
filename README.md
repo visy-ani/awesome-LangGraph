@@ -915,7 +915,6 @@ Browse the full template catalog here:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
-| [hrithikkoduri/WebRover](https://github.com/hrithikkoduri/WebRover) | Autonomous agent for automating web tasks and research | ![GitHub stars](https://img.shields.io/github/stars/hrithikkoduri/WebRover?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/hrithikkoduri/WebRover) |
 | [esinecan/agentic-ai-browser](https://github.com/esinecan/agentic-ai-browser) | Web automation agent with behavioral caching, DOM fidelity, and success pattern recording | ![GitHub stars](https://img.shields.io/github/stars/esinecan/agentic-ai-browser?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/esinecan/agentic-ai-browser) |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Library for AI agents to control websites and automate tasks | ![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/browser-use/browser-use) |
 | [stanford-mast/blast](https://github.com/stanford-mast/blast) | High-performance serving engine for browser-augmented LLM applications with auto-scaling and OpenAI-compatible API | ![GitHub stars](https://img.shields.io/github/stars/stanford-mast/blast?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/stanford-mast/blast) |
@@ -987,7 +986,6 @@ Browse the full template catalog here:
 | Project | Description | GitHub Stars |
 |---|---|---|
 | [kargarisaac/telegram_link_summarizer_agent](https://github.com/kargarisaac/telegram_link_summarizer_agent) | Telegram bot that summarizes shared links using LangGraph and multi-tool extraction | ![GitHub stars](https://img.shields.io/github/stars/kargarisaac/telegram_link_summarizer_agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/kargarisaac/telegram_link_summarizer_agent) |
-| [gotohuman/gotohuman-langgraph-lead-example](https://github.com/gotohuman/gotohuman-langgraph-lead-example) | Sales email drafting with human-in-the-loop review | ![GitHub stars](https://img.shields.io/github/stars/gotohuman/gotohuman-langgraph-lead-example?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/gotohuman/gotohuman-langgraph-lead-example) |
 | [raminmohammadi/ai-agent-smart-assist](https://github.com/raminmohammadi/ai-agent-smart-assist) | Knowledge base + classification + Q&A for support teams (FAISS + RAG) | ![GitHub stars](https://img.shields.io/github/stars/raminmohammadi/ai-agent-smart-assist?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/raminmohammadi/ai-agent-smart-assist) |
 
 
@@ -1095,7 +1093,7 @@ Browse the full template catalog here:
 
 </div>
 
-*Marketing analysis, content strategy, and promotional automation*
+Marketing analysis, content strategy, and promotional automation
 
 No active community listings currently.
 
@@ -1164,11 +1162,9 @@ No active community listings currently.
 | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | Report-oriented research agent with citations | ![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/assafelovic/gpt-researcher) |
 | [Just-Curieous/Curie](https://github.com/Just-Curieous/Curie) | Agent for empirical experimentation in ML/systems | ![GitHub stars](https://img.shields.io/github/stars/Just-Curieous/Curie?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/Just-Curieous/Curie) |
 | [iblameandrew/local-deepsearch-academic](https://github.com/iblameandrew/local-deepsearch-academic) | Academic paper discovery with S2 + RAPTOR indexing | ![GitHub stars](https://img.shields.io/github/stars/iblameandrew/local-deepsearch-academic?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/iblameandrew/local-deepsearch-academic) |
-| [andrestorres123/breeze-agent](https://github.com/andrestorres123/breeze-agent) | Streamlined research flow inspired by STORM on LangGraph | ![GitHub stars](https://img.shields.io/github/stars/andrestorres123/breeze-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/andrestorres123/breeze-agent) |
 | [bernatsampera/event-deep-research](https://github.com/bernatsampera/event-deep-research) | Multi-agent biographical research system extracting structured timeline events from historical figures | ![GitHub stars](https://img.shields.io/github/stars/bernatsampera/event-deep-research?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/bernatsampera/event-deep-research) |
 | [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) | R&D automation for data mining, paper analysis, model tuning | ![GitHub stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/microsoft/RD-Agent) |
 | [SalesforceAIResearch/enterprise-deep-research](https://github.com/SalesforceAIResearch/enterprise-deep-research) | Steerable enterprise research stack with planner, specialized search agents, and web UI on LangGraph | ![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/enterprise-deep-research?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/SalesforceAIResearch/enterprise-deep-research) |
-| [xyin-anl/Nodeology](https://github.com/xyin-anl/Nodeology) | Simplified scientific workflow builder | ![GitHub stars](https://img.shields.io/github/stars/xyin-anl/Nodeology?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/xyin-anl/Nodeology) |
 | [lgesuellip/researcher_agent](https://github.com/lgesuellip/researcher_agent) | Turns websites into LLM-ready research content with automated documentation indexing | ![GitHub stars](https://img.shields.io/github/stars/lgesuellip/researcher_agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/lgesuellip/researcher_agent) |
 | [guy-hartstein/company-research-agent](https://github.com/guy-hartstein/company-research-agent) | Agentic company due-diligence tool powered by LangGraph and Tavily; multi-agent framework with Gemini/GPT for deep company research and financial analysis | ![GitHub stars](https://img.shields.io/github/stars/guy-hartstein/company-research-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/guy-hartstein/company-research-agent) |
 | [OpenDCAI/Paper2Any](https://github.com/OpenDCAI/Paper2Any) | Converts papers, text, or topics into editable research figures, technical route diagrams, and presentation slides using LangGraph agents | ![GitHub stars](https://img.shields.io/github/stars/OpenDCAI/Paper2Any?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/OpenDCAI/Paper2Any) |
@@ -1209,7 +1205,7 @@ No active community listings currently.
 
 </div>
 
-*Environmental impact, green technology, and sustainability analysis*
+Environmental impact, green technology, and sustainability analysis
 
 No active community listings currently.
 
